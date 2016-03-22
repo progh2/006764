@@ -1,7 +1,7 @@
 # 파이썬 코딩의 기술
 
 
-<img src="cover.jpg" style="width: 200px; max-width: 100%; height:auto;"/>
+<img src="cover.jpg"/>
 
 ## 파이썬 코딩에도 파이썬다운 기술이 필요하다!
 
