@@ -1,9 +1,7 @@
 # 파이썬 코딩의 기술
 
 
-<img src="cover.jpg" style="max-width: 400px; height:auto;"/>
-
-파이썬 코딩의 기술(Effective Python) 예제 소스입니다.
+<img src="cover.jpg" style="width: 400px; max-width: 100%; height:auto;"/>
 
 ## 파이썬 코딩에도 파이썬다운 기술이 필요하다!
 
